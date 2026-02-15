@@ -12,7 +12,7 @@ models:
               arguments:
                 values: ['1','2','3','4','5']
                 config:
-                  severity: warn
+                  severity: warn       
 sources:
   - name: employee
     database: DBT_DB
